@@ -18,5 +18,5 @@ Active in student activities and leadership roles, I value being part of support
 Eager to expand my knowledge, collaborate on exciting projects, and make meaningful contributions to the tech world. If you share this goal, let's connect 😄
 
 🔗 You can find me here:
-- https:/www.linkedin.com/in/malk-khatab
+- https://www.linkedin.com/in/malk-khatab
 - https://www.instagram.com/malk_khalid_khatab
