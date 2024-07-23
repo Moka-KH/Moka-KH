@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Moka-KH/Moka-KH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Ain Shams University, specializing in Bioinformatics Software Engineering. Ranked second in my department and a proud scholarship recipient, I am driven by a passion for learning and innovation.
 
-Here are some ideas to get you started:
+🚀 Technical Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Development
+Data Engineering
+Machine Learning
+🎓 Recent Experience:
+
+Data Engineering Intern at Ejada
+Member of the Machine Learning Committee, MSP Team, Ain Shams University
+🤝 Community Involvement:
+Active in student activities and leadership roles, I value being part of supportive communities that foster growth and skill development.
+
+📈 Goals:
+Eager to expand my knowledge, collaborate on exciting projects, and make meaningful contributions to the tech world. If you share this goal, let's connect 😄
