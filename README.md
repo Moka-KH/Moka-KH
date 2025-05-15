@@ -3,13 +3,13 @@
 I am a Computer Science student at Ain Shams University, specializing in Bioinformatics Software Engineering. Ranked second in my department and a proud scholarship recipient, I am driven by a passion for learning and innovation.
 
 🚀 Technical Expertise:
-- Web Development
 - Data Engineering
 - Machine Learning
+- Web Development
 
 🎓 Recent Experience:
 - Data Engineering Intern at Ejada
-- Member of the Machine Learning Committee, MSP Team, Ain Shams University
+- Head of the AI Committee, MSP Team, Ain Shams University
 
 🤝 Community Involvement:
 Active in student activities and leadership roles, I value being part of supportive communities that foster growth and skill development.
